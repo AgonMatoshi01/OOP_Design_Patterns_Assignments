@@ -1,0 +1,14 @@
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\bin\Debug\net8.0\Factory_Method.exe
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\bin\Debug\net8.0\Factory_Method.deps.json
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\bin\Debug\net8.0\Factory_Method.runtimeconfig.json
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\bin\Debug\net8.0\Factory_Method.dll
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\bin\Debug\net8.0\Factory_Method.pdb
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.AssemblyInfoInputs.cache
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.AssemblyInfo.cs
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.csproj.CoreCompileInputs.cache
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.dll
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\refint\Factory_Method.dll
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.pdb
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\Factory_Method.genruntimeconfig.cache
+C:\Users\Agon Matoshi\Work\Factory_Method\Factory_Method\obj\Debug\net8.0\ref\Factory_Method.dll
